@@ -12,17 +12,16 @@ and she achieved a perfect score on the AMC 8. She placed 3rd individual and 1st
 <img src="/assets/img/brian-li.jpeg" class="center" width="300"/>
 
 Brian Li is a rising sophomore at Mission San Jose High School and is an avid 
-competitor in various STEM fields. He qualified for AIME multiple times while 
+competitor in various STEM fields. He is heavily invested in physics and has participated in the f=ma before. Furthermore, Brian is familiar with AP Physics 1, AP Physics C, and AP Physics E&M subjects. Besides physics, he qualified for AIME multiple times while 
 earning a perfect score on the AMC10 and Distinguished Honor Roll on AMC12. 
 Brian also qualified for the 2021 USAMO. He participates in quite a few college-run 
 competitions, such as BMT where he tied for 7th in algebra. Brian’s teams have ranked 
 in various competitions, like placing 5th place for both middle and high school national mathleagues, 2nd for the 2021 FARML, and 7th in 2021 ARML local. Besides math, Brian enjoys science fairs and computer science. He is a 2-time Broadcom MASTERS and a Broadcom semifinalist. Moreover, Brian is currently in the USACO 
 gold division.
-Brian has over two years of teaching experience from AMC8 to advanced AMC10 and 
+
+Brian also has over two years of teaching experience from AMC8 to advanced AMC10 and 
 problem-writing experiences, being the co-lead of the 2nd Annual MPTF Competition 
-nd a problem writing committee of the Cowconuts Competition. He wants to allow 
-others to feel passionate about math and help both his students and himself grow 
-in the process.
+nd a problem writing committee of the Cowconuts Competition. Brian wants to use his experience to help his peers feel more passionate about STEM subjects, especially physics.
 
 <img src="/assets/img/kevin-jiang.jpeg" class="center" width="300"/>
 
