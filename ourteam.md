@@ -1,0 +1,41 @@
+---
+layout: page
+title: Our Team
+---
+
+<img src="/assets/img/emma-li.jpeg" class="center" width="300"/>
+
+Emma is a rising sophomore at Mission San Jose High School. She is a self-driven STEM 
+girl who is particularly passionate about competition math. Emma is an AIME qualifier, 
+and she achieved a perfect score on the AMC 8. She placed 3rd individual and 1st in the team category in her Mathcounts Chapter and reached the national level in MathLeague competitions. Additionally, Emma has competed in quite a few girls math competitions, placing in the Top Ten Individual for Girls in Math at Yale 2021. Besides participating in math contests, Emma also has experience as a teacher of AMC8 and AMC10 classes, and as a problem writer for local math competitions. Outside of competition math, Emma enjoys coding and participating in science and engineering fairs. She is a USACO Gold Division contestant, as well as a two-time Broadcom MASTER and a Broadcom semifinalist. She looks forward to passing down her knowledge and experience to younger students, especially girls, and inspiring them to pursue interests in STEM.
+
+<img src="/assets/img/brian-li.jpeg" class="center" width="300"/>
+
+Brian Li is a rising sophomore at Mission San Jose High School and is an avid 
+competitor in various STEM fields. He qualified for AIME multiple times while 
+earning a perfect score on the AMC10 and Distinguished Honor Roll on AMC12. 
+Brian also qualified for the 2021 USAMO. He participates in quite a few college-run 
+competitions, such as BMT where he tied for 7th in algebra. Brian’s teams have ranked 
+in various competitions, like placing 5th place for both middle and high school national mathleagues, 2nd for the 2021 FARML, and 7th in 2021 ARML local. Besides math, Brian enjoys science fairs and computer science. He is a 2-time Broadcom MASTERS and a Broadcom semifinalist. Moreover, Brian is currently in the USACO 
+gold division.
+Brian has over two years of teaching experience from AMC8 to advanced AMC10 and 
+problem-writing experiences, being the co-lead of the 2nd Annual MPTF Competition 
+nd a problem writing committee of the Cowconuts Competition. He wants to allow 
+others to feel passionate about math and help both his students and himself grow 
+in the process.
+
+<img src="/assets/img/kevin-jiang.jpeg" class="center" width="300"/>
+
+Kevin is a rising sophomore attending Mission San Jose High School. He has 
+attended numerous math competitions since he was in elementary school, 
+qualifying for MathCounts State twice, getting Distinguished Honor Roll 
+on the AMC 8 three times, and qualifying for AIME in 2020 and 2021. Along 
+with his competition experience, Kevin also enjoys giving back his knowledge 
+to the community by teaching classes. He has been teaching middle schoolers 
+basic AMC 8 and 10 materials and AoPS geometry since 2019 and leading weekly 
+reading clubs and numerous math circles, allowing him to earn the gold 
+Presidential Volunteer Service Award medal. Additionally, he has also 
+co-led the 2nd Annual MPTF Math Competition, as well as part of the 
+problem writing committee for the Cowconuts competition. He wishes to spread 
+interest for math throughout the community, making math not a subject people 
+fear but a subject people love.
