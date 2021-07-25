@@ -21,7 +21,7 @@ gold division.
 
 Brian also has over two years of teaching experience from AMC8 to advanced AMC10 and 
 problem-writing experiences, being the co-lead of the 2nd Annual MPTF Competition 
-nd a problem writing committee of the Cowconuts Competition. Brian wants to use his experience to help his peers feel more passionate about STEM subjects, especially physics.
+and problem writing committee of the Cowconuts Competition. Brian wants to use his experience to help his peers feel more passionate about STEM subjects, especially physics.
 
 <img src="/assets/img/kevin-jiang.jpeg" class="center" width="300"/>
 
