@@ -12,7 +12,7 @@ and she achieved a perfect score on the AMC 8. She placed 3rd individual and 1st
 <img src="/assets/img/brian-li.jpeg" class="center" width="300"/>
 
 Brian Li is a rising sophomore at Mission San Jose High School and is an avid 
-competitor in various STEM fields. He is heavily invested in physics and has participated in the f=ma as well as many AP exams, for example earning a 5 on the AP Physics 1 exam last year. Furthermore, Brian is familiar with AP Physics 1, AP Physics C, and AP Physics E&M subjects. Besides physics, he qualified for AIME multiple times while 
+competitor in various STEM fields. He is heavily invested in physics and has participated in the f=ma as well as earned a 5 on the AP Physics 1 exam last year. Furthermore, Brian is familiar with AP Physics 1, AP Physics C, and AP Physics E&M subjects. Besides physics, he qualified for AIME multiple times while 
 earning a perfect score on the AMC10 and Distinguished Honor Roll on AMC12. 
 Brian also qualified for the 2021 USAMO. He participates in quite a few college-run 
 competitions, such as BMT where he tied for 7th in algebra. Brian’s teams have ranked 
