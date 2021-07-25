@@ -16,9 +16,9 @@ author: Club Officers
 navbar-links:
   About Us: "aboutus"
   Our Team: "ourteam"
-  Events: "events"
   POTW: "potw"
-
+  Events: "events"
+  
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
