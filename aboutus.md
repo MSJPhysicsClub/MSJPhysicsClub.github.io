@@ -3,10 +3,10 @@ layout: page
 title: About Us
 ---
 
-The MSJ Physics Club is a student-run club that serves to not only unify but also nurture and create every student’s 
-passion for physics. Only through interactions with peers and activities within the club can one 
-truly build this passion. Aside from this, everyone in the MSJ Physics Club will collaboratively 
-sharpen their physics skills. This can be from a variety of our activities, including study groups for AP Physics classes and exams,
-problem review sessions for the annual f=ma contest, a high school physics contest hosted throughout 
-the nation, lectures on physics concepts, hosting teams for physics bowl and other 
-physics team competitions, etc.
+The MSJ Physics Club is a student-run club that serves to unify, nurture, and
+create a passion for physics in the MSJ community. Through peer interactions and
+club activities, club members will collaboratively sharpen their physics skills and
+build a passion for physics that supplements the current curriculum offered by
+MSJ. Activities include AP Physics study groups, problem review session for
+national physics contests (e.g. F=ma), team formations for physics bowl and other
+competitions, lectures on physics concepts, and much more.
