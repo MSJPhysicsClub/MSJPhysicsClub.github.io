@@ -24,4 +24,19 @@ and problem writing committee of the Cowconuts Competition. Brian wants to use h
 
 <img src="/assets/img/kevin-jiang.jpeg" class="center" width="300"/>
 
-Kevin Jiang is a rising sophomore at Mission San Jose High School. He has participated in a multitude of physics classes and competitions (including the F=ma), earning a 5 on the AP Physics 1 exam. He is familiar with AP Physics C concepts as well. Besides physics, he is interested in math and computer science. He has attended numerous math competitions since he was in elementary school, qualifying for MathCounts State twice, getting Distinguished Honor Roll on the AMC 8 three times, and qualifying for AIME in 2020 and 2021. Along with his competition experience, Kevin also enjoys giving back his knowledge to the community by teaching classes. He has been teaching middle schoolers basic AMC 8 and 10 materials and AoPS geometry since 2019 and leading weekly reading clubs and numerous math circles, allowing him to earn the gold Presidential Volunteer Service Award medal. Additionally, he has also co-led the 2nd Annual MPTF Math Competition, as well as part of the problem writing committee for the Cowconuts competition. He wishes to spread interest for STEM throughout the community, making STEM subjects not something people fear but something people love.
+Kevin Jiang is a rising sophomore at Mission San Jose High School. He has earned a 5
+on the AP Physics 1 exam and participated in physics competitions, including the
+F=ma. He is familiar with AP Physics C concepts as well. Besides physics, he is
+interested in math and computer science. He has attended many math competitions.
+Some of his achievements include qualifying for MathCounts State twice, getting
+Distinguished Honor Roll on the AMC 8 three times, and qualifying for AIME in 2020
+and 2021.
+
+Along with his competition experience, Kevin also enjoys giving back his knowledge
+to the community by teaching classes. He has been teaching middle schoolers AMC 8
+and 10 concepts, as well as AoPS Geometry. He has earned the gold Presidential
+Volunteer Service Award medal in 2020. Additionally, he has also co-led the 2 nd
+Annual MPTF Math Competition, as well as writing problems for the Cowconuts
+competition. He wishes to spread interest for STEM throughout the community,
+making STEM subjects not something people fear but something people love. In his
+free time, he enjoys learning and exploring new concepts.
