@@ -8,7 +8,7 @@ title: Our Team
 
 
 Emma Li is a rising sophomore at Mission San Jose High School. She is a self-driven STEM 
-girl, and has passion for physics. She has experience competing in the F=ma, as well as in various subjects covered on the AP Physics 1 and C exams, having scored a 5 on the AP Physics 1 exam. Aside from physics,  Emma is also passionate about competition math. Emma is an AIME qualifier and was invited to Math Prize for Girls 2021. She also achieved a perfect score on the AMC 8. She placed 3rd individual and 1st in the team category in her Mathcounts Chapter and reached the national level in MathLeague competitions. Additionally, Emma has competed in quite a few girls math competitions, placing in the Top Ten Individual for Girls in Math at Yale 2021. Besides participating in math contests, Emma also has experience as a teacher of AMC8 and AMC10 classes, and as a problem writer for local math competitions. Outside of competition math, Emma enjoys coding and participating in science and engineering fairs. She is a USACO Gold Division contestant, as well as a two-time Broadcom MASTER and a Broadcom semifinalist. She looks forward to passing down her knowledge and experience to younger students, especially girls, and inspiring them to pursue interests in STEM.
+girl, and has passion for physics. She has experience competing in the F=ma, as well as in various subjects covered on the AP Physics 1 and C exams, having scored a 5 on the AP Physics 1 exam. Aside from physics,  Emma is also passionate about competition math. Emma is an AIME qualifier and was invited to Math Prize for Girls 2021. She also achieved a perfect score on the AMC 8. She placed 3rd individual and 1st in the team category in her Mathcounts Chapter and reached the national level in MathLeague competitions. Additionally, Emma has competed in quite a few girls math competitions, placing in the Top Ten Individual for Girls in Math at Yale 2021. Besides participating in math contests, Emma also has experience as a teacher of AMC8 and AMC10 classes, and as a problem writer for local math competitions. Outside of competition math, Emma enjoys coding and participating in science and engineering fairs. She is a USACO Gold Division contestant, as well as a two-time Broadcom MASTER and a Broadcom semifinalist. She looks forward to passing down her knowledge and experience to other students, especially girls, and inspiring them to pursue interests in STEM.
 
 <p align="center">
   <img src="/assets/img/brian-li.jpeg" class="center" width="300"/>
@@ -43,7 +43,7 @@ and 2021.
 Along with his competition experience, Kevin also enjoys giving back his knowledge
 to the community by teaching classes. He has been teaching middle schoolers AMC 8
 and 10 concepts, as well as AoPS Geometry. He has earned the gold Presidential
-Volunteer Service Award medal in 2020. Additionally, he has also co-led the 2 nd
+Volunteer Service Award medal in 2020. Additionally, he has also co-led the 2nd
 Annual MPTF Math Competition, as well as writing problems for the Cowconuts
 competition. He wishes to spread interest for STEM throughout the community,
 making STEM subjects not something people fear but something people love. In his
