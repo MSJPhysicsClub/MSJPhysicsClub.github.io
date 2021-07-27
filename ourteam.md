@@ -10,7 +10,10 @@ title: Our Team
 Emma Li is a rising sophomore at Mission San Jose High School. She is a self-driven STEM 
 girl, and has passion for physics. She has experience competing in the F=ma, as well as in various subjects covered on the AP Physics 1 and C exams, having scored a 5 on the AP Physics 1 exam. Aside from physics,  Emma is also passionate about competition math. Emma is an AIME qualifier and was invited to Math Prize for Girls 2021. She also achieved a perfect score on the AMC 8. She placed 3rd individual and 1st in the team category in her Mathcounts Chapter and reached the national level in MathLeague competitions. Additionally, Emma has competed in quite a few girls math competitions, placing in the Top Ten Individual for Girls in Math at Yale 2021. Besides participating in math contests, Emma also has experience as a teacher of AMC8 and AMC10 classes, and as a problem writer for local math competitions. Outside of competition math, Emma enjoys coding and participating in science and engineering fairs. She is a USACO Gold Division contestant, as well as a two-time Broadcom MASTER and a Broadcom semifinalist. She looks forward to passing down her knowledge and experience to younger students, especially girls, and inspiring them to pursue interests in STEM.
 
-<img src="/assets/img/brian-li.jpeg" class="center" width="300"/>
+<p align="center">
+  <img src="/assets/img/brian-li.jpeg" class="center" width="300"/>
+</p>
+
 
 Brian Li is a rising sophomore at Mission San Jose High School and is an avid 
 competitor in various STEM fields. He is heavily invested in physics and has participated in the f=ma as well as earned a 5 on the AP Physics 1 exam last year. Furthermore, Brian is familiar with AP Physics 1, AP Physics C, and AP Physics E&M subjects. Besides physics, he qualified for AIME multiple times while 
@@ -24,7 +27,10 @@ Brian also has over two years of teaching experience from AMC8 to advanced AMC10
 problem-writing experiences, being the co-lead of the 2nd Annual MPTF Competition 
 and problem writing committee of the Cowconuts Competition. Brian wants to use his experience to help his peers feel more passionate about STEM subjects, especially physics.
 
-<img src="/assets/img/kevin-jiang.jpeg" class="center" width="300"/>
+<p align="center">
+  <img src="/assets/img/kevin-jiang.jpeg" class="center" width="300"/>
+</p>
+
 
 Kevin Jiang is a rising sophomore at Mission San Jose High School. He has earned a 5
 on the AP Physics 1 exam and participated in physics competitions, including the
